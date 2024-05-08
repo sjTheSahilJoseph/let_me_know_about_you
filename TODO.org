@@ -1,0 +1,9 @@
+* Let me know about you
+
+** TODO:
+
+*** TODO Initialize NextJS App
+*** TODO Install Basic Modules
+*** TODO Update README file (from md to org)
+*** TODO Update README file (Add project name)
+*** TODO File Initialize using org mode

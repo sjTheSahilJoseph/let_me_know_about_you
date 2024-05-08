@@ -2,8 +2,13 @@
 
 ** TODO:
 
-*** TODO Initialize NextJS App
-*** TODO Install Basic Modules
-*** TODO Update README file (from md to org)
-*** TODO Update README file (Add project name)
-*** TODO File Initialize using org mode
+Date: 08 - May - 2024
+*** DONE Initialize NextJS App
+*** DONE Install Basic Modules
+*** DONE Update README file (from md to org)
+*** DONE Update README file (Add project name)
+*** DONE File Initialize using org mode
+
+Date: 09 - May 2024
+*** TODO Make Home Page
+*** TODO Setup Authentication
